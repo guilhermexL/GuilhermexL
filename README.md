@@ -1,5 +1,5 @@
 <h1 align="center">Olá, eu sou Guilherme Santos 🖐️</h1>
-<h3 align="center">Graduando em Engenharia de Computação, IFPB</h3>
+<h3 align="center">Graduando em Engenharia de Computação, IFPB👨‍💻</h3>
 
 ![Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermexL&how_icons=true&theme=radical)
 
