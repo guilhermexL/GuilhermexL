@@ -4,7 +4,7 @@
 </div>
 
 <a href = "mailto:guilhermesantosmj@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/guilherme-santos-776715223/"><img align="left" alt="Guilherme LinkdeIN" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
+<a href="https://www.linkedin.com/in/guilhermee-santos/"><img align="left" alt="Guilherme LinkdeIN" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 </a>
 
 ##
