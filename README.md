@@ -3,7 +3,7 @@
 <p><em> Technology Student <img src="https://media2.giphy.com/media/SUEN0j6R09jeEriEWr/giphy.gif?cid=ecf05e47f4f5jrf5a45vtjw830ten75mii34yk8rc7h099mv&rid=giphy.gif" width="25"></br>
 
 <a title="Linkedin" href="https://www.linkedin.com/in/guilhermee-santos/"><img align="left" alt="Guilherme Linkedin" width="22px" target="_blank" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" /></a>
-<a title="Email" href = "mailto:contato@guilhermesantosmj"><img align="left" alt="Guilherme Email" width="22px" target="_blank" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-plain.svg" /></a>
+<a title="Email" href = "mailto:contato@guilhermesantosmj"><img align="left" alt="Guilherme Email" width="22px" target="_blank" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" /></a>
 
 <br>
 
@@ -26,5 +26,7 @@
   <img align="left" width="30px" title="Electron" alt="Electron" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" />
   <img align="left" width="30px" title="Socket" alt="Socket" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/socketio/socketio-original.svg" />
   <img align="left" width="30px" title="Bootstrap" alt="BootStrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+  <img align="left" width="30px" title="Figma" alt="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+  <img align="left" width="30px" title="WordPress" alt="WordPress" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" />
   
 </div>
