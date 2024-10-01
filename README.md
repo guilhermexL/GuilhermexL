@@ -27,6 +27,5 @@
   <img align="left" width="30px" title="Socket" alt="Socket" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/socketio/socketio-original.svg" />
   <img align="left" width="30px" title="Bootstrap" alt="BootStrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
   <img align="left" width="30px" title="Figma" alt="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
-  <img align="left" width="30px" title="WordPress" alt="WordPress" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" />
   
 </div>
