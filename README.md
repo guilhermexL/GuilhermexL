@@ -7,7 +7,7 @@
 <br>
 <br>
 
-## Tecnologias e Ferramentas
+## Linguagens e Ferramentas
 
 <div>
 
