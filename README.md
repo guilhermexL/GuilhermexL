@@ -2,7 +2,7 @@
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas no IFPB  
 💻 Entusiasta de backend, DevOps e tecnologias em nuvem  
-🚀 Buscando a primeira oportunidade profissional em tecnologia  
+🚀 Buscando oportunidade profissional em tecnologia  
 📚 Atualmente focado em projetos com Java, Spring Boot, Docker e PostgreSQL  
 🤝 Aberto a colaborações, freelas e conexões técnicas
 <br>
@@ -24,11 +24,11 @@
 
 <br>
 
-<p style="display: flex; align-items: flex-start; gap: 20px;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 15px;">
 
 ![GuilhermexL's Stats](https://github-readme-stats.vercel.app/api?username=GuilhermexL&theme=nightowl&show_icons=true&hide_border=true&count_private=true)
 
 ![GuilhermexL's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermexL&theme=nightowl&show_icons=true&hide_border=true&layout=compact)
 
-</p>
+</div>
 
