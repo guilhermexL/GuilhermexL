@@ -10,6 +10,7 @@
 ### Tecnologias e Ferramentas
 
 <p align="left">
+
   <img align="left" width="30px" title="Java" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
   <img align="left" width="30px" title="Javascript" alt="Javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img align="left" width="30px" title="Typescript" alt="Typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
@@ -32,7 +33,7 @@
 
 ### Contato
 
-<div>
+<div align="left">
     <a href="https://www.linkedin.com/in/guilhermee-santos/" target="_blank">
       <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="30px" alt="Linkedin" />
     </a>
