@@ -18,7 +18,6 @@
   <img align="left" width="30px" title="MongoDB" alt="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
   <img align="left" width="30px" title="AWS" alt="AWS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
   <img align="left" width="30px" title="Docker" alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
-  <img align="left" width="30px" title="Linux" alt="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
   <img align="left" width="30px" title="Apache Kafka" alt="Apache Kafka" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" />
 </p>
 
@@ -26,7 +25,7 @@
 <br>
 <br>
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 15px;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 15px">
 
 ![GuilhermexL's Stats](https://github-readme-stats.vercel.app/api?username=GuilhermexL&theme=nightowl&show_icons=true&hide_border=true&count_private=true)
 
