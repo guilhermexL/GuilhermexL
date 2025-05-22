@@ -23,7 +23,6 @@
   <img align="left" width="30px" title="AWS" alt="AWS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
   <img align="left" width="30px" title="Docker" alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
   <img align="left" width="30px" title="Git" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" />
-  <img align="left" width="30px" title="Apache Kafka" alt="Apache Kafka" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" />
   
 </p>
 
@@ -40,3 +39,8 @@
       <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="30px" alt="Gmail" />
     </a>
 </div>
+
+<p align="center"> 
+  Visitantes<br>
+  <img src="https://profile-counter.glitch.me/guilhermexL/count.svg" />
+</p>
