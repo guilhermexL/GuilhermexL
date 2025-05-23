@@ -2,7 +2,12 @@
 
 <div align="center">
 
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&pause=1000&color=0d2b83&size=35&center=true&vCenter=true&width=1000&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Guilherme" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&pause=1000&color=0d2b83&size=35&center=true&vCenter=true&width=1000&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Guilherme+Santos" alt="Typing SVG" /></a>
+
+<p align="center"> 
+  Visitantes<br>
+  <img src="https://profile-counter.glitch.me/guilhermexL/count.svg" />
+</p>
 
 </div>
  
@@ -48,14 +53,4 @@
 <img loading="lazy" src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" target="_blank">
 </a>
 
-
-<p align="center"> 
-  Visitantes<br>
-  <img src="https://profile-counter.glitch.me/guilhermexL/count.svg" />
-</p>
-
-<<<<<<< HEAD
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0d2b83&height=120&section=footer"/>
-=======
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=430f43&height=120&section=footer"/>
->>>>>>> 5ec459de79071d13126c481df3e4b312ec0cf473
