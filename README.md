@@ -46,7 +46,7 @@
 </a>
 
 <a href = "mailto:contato@guilhermesantosmj">
-<img loading="lazy" src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" target="_blank">
+<img loading="lazy" src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank">
 </a>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0d2b83&height=120&section=footer"/>
