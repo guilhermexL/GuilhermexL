@@ -1,8 +1,8 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=430f43&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0d2b83&height=120&section=header"/>
 
 <div align="center">
 
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&pause=1000&color=430F43&size=35&center=true&vCenter=true&width=1000&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Guilherme" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&pause=1000&color=0d2b83&size=35&center=true&vCenter=true&width=1000&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Guilherme" alt="Typing SVG" /></a>
 
 </div>
  
@@ -55,4 +55,4 @@
   <img src="https://profile-counter.glitch.me/guilhermexL/count.svg" />
 </p>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=430f43&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0d2b83&height=120&section=footer"/>
