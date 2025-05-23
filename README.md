@@ -37,7 +37,6 @@
 </p>
 
 <br>
-<br>
 
 ### Contato
 
@@ -55,4 +54,8 @@
   <img src="https://profile-counter.glitch.me/guilhermexL/count.svg" />
 </p>
 
+<<<<<<< HEAD
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0d2b83&height=120&section=footer"/>
+=======
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=430f43&height=120&section=footer"/>
+>>>>>>> 5ec459de79071d13126c481df3e4b312ec0cf473
