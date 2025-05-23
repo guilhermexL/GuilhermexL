@@ -16,8 +16,6 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GuilhermexL&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-<br>
-
 ### Tecnologias e Ferramentas
 
 <p align="left">
@@ -40,8 +38,6 @@
 ![Docker](https://img.shields.io/badge/docker-00000F.svg?style=for-the-badge&logo=docker)
   
 </p>
-
-<br>
 
 ### Contato
 
