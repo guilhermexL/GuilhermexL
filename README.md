@@ -1,13 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0d2b83&height=120&section=header"/>
-
 <div align="center">
 
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&pause=1000&color=0d2b83&size=35&center=true&vCenter=true&width=1000&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Guilherme+Santos" alt="Typing SVG" /></a>
-
-<p align="center"> 
-  Visitantes<br>
-  <img src="https://profile-counter.glitch.me/guilhermexL/count.svg" />
-</p>
 
 </div>
  
@@ -48,5 +41,3 @@
 <a href = "mailto:contato@guilhermesantosmj">
 <img loading="lazy" src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank">
 </a>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0d2b83&height=120&section=footer"/>
