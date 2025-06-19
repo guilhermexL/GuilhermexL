@@ -14,31 +14,27 @@
 
 <p align="left">
 
-![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
-![Spring](https://img.shields.io/badge/Spring-000?style=for-the-badge&logo=spring)
-![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c&logoColor=00599C)
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
-![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
-![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=blue)
-![NodeJS](https://img.shields.io/badge/NodeJS-000?style=for-the-badge&logo=nodedotjs)
-![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
-![SQL](https://img.shields.io/badge/PostgreSQL-00000F?style=for-the-badge&logo=postgresql)
-![MONGO](https://img.shields.io/badge/MongoDB-00000F?style=for-the-badge&logo=mongodb)
-![AWS](https://img.shields.io/badge/Amazon%20Web%20Services-000.svg?style=for-the-badge&logo=Amazon-Web-Services&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-00000F.svg?style=for-the-badge&logo=docker)
-  
+<img width="45px" title="Java" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+<img width="45px" title="Spring" alt="Spring" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+<img width="45px" title="Python" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img width="45px" title="Angular" alt="Angular" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-plain.svg" />
+<img width="45px" title="MongoDB" alt="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
+<img width="45px" title="PostgreSQL" alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+<img width="45px" title="MySQL" alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+<img width="45px" title="Postman" alt="Postman" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
+<img width="45px" title="Amazon Web Service" alt="Amazon Web Service" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
+<img width="45px" title="Docker" alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+<img width="45px" title="Git" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+<img width="45px" title="Apache Kafka" alt="Apache Kafka" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" />
+
 </p>
 
 ### Contato
 
 <a href="https://www.linkedin.com/in/guilhermee-santos/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+<img width="50px" title="LinkedIn" alt="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" target="_blank">
 </a>
 
 <a href = "mailto:contato@guilhermesantosmj">
-<img loading="lazy" src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank">
+<img width="50px" title="Gmail" alt="Gmail" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original-wordmark.svg" target="_blank">
 </a>
