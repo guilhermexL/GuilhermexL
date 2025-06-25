@@ -3,7 +3,7 @@
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTM3dW85MWFkZGtrMHBxejM4bmE2NDZ0NWpudjg2aTN0cG1rYmg5aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SzQk4DdpJBkXu/giphy.gif"/>
 </div>
 
-<!-- 
+<!--
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermexL&layout=compact&langs_count=7&theme=dracula"/> 
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GuilhermexL&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -37,4 +37,8 @@
 
 <a href = "mailto:contato@guilhermesantosmj">
 <img width="50px" title="Gmail" alt="Gmail" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original-wordmark.svg" target="_blank">
+</a>
+
+<a href = "https://guilhermexl.vercel.app/">
+<img width="40px" title="WebSite" alt="WebSite" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" target="_blank">
 </a>
