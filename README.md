@@ -32,13 +32,13 @@
 ### Contato
 
 <a href="https://www.linkedin.com/in/guilhermee-santos/">
-<img width="50px" title="LinkedIn" alt="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" target="_blank">
+<img width="40px" title="LinkedIn" alt="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" target="_blank">
 </a>
 
 <a href = "mailto:contato@guilhermesantosmj">
-<img width="50px" title="Gmail" alt="Gmail" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original-wordmark.svg" target="_blank">
+<img width="40px" title="Gmail" alt="Gmail" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" target="_blank">
 </a>
 
 <a href = "https://guilhermexl.vercel.app/">
-<img width="40px" title="WebSite" alt="WebSite" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" target="_blank">
+<img width="40px" title="WebSite" alt="WebSite" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webflow/webflow-original.svg" target="_blank">
 </a>
