@@ -40,5 +40,5 @@
 </a>
 
 <a href = "https://guilhermexl.vercel.app/">
-<img width="40px" title="WebSite" alt="WebSite" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webflow/webflow-original.svg" target="_blank">
+<img width="40px" title="WebSite" alt="WebSite" src="https://img.icons8.com/color/48/geography--v1.png" target="_blank">
 </a>
