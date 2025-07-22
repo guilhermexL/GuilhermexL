@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&pause=1000&color=36BCF7FF&size=35&center=true&vCenter=true&width=1000&lines=Welcome!" alt="Typing SVG" /></a>
+  <!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&pause=1000&color=36BCF7FF&size=50&center=true&vCenter=true&width=1000&lines=Welcome!" alt="Typing SVG" /></a> -->
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTM3dW85MWFkZGtrMHBxejM4bmE2NDZ0NWpudjg2aTN0cG1rYmg5aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SzQk4DdpJBkXu/giphy.gif"/>
 </div>
 
@@ -40,5 +40,5 @@
 </a>
 
 <a href = "https://guilhermexl.vercel.app/">
-<img width="40px" title="WebSite" alt="WebSite" src="https://img.icons8.com/color/48/geography--v1.png" target="_blank">
+<img width="45px" title="WebSite" alt="WebSite" src="https://img.icons8.com/color/48/geography--v1.png" target="_blank">
 </a>
