@@ -1,6 +1,6 @@
 <div align="center">
   <!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&pause=1000&color=36BCF7FF&size=50&center=true&vCenter=true&width=1000&lines=Welcome!" alt="Typing SVG" /></a> -->
-  <img width="1584" height="396" alt="Banner para Linkedin Tecnologia Abstrato Azul e Branco" src="https://github.com/user-attachments/assets/2762b419-f5c8-4583-b5d9-f671666ee009" />
+  <img width="1584" height="396" alt="Banner" src="https://github.com/user-attachments/assets/2762b419-f5c8-4583-b5d9-f671666ee009" />
 </div>
 
 <!--
