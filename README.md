@@ -2,8 +2,8 @@
 
 # 👋 Hi there, I'm [Guilherme](https://www.linkedin.com/in/guilhermee-santos/)! 
 
-Sou uma pessoa interessada em tecnologia e aprendizado contínuo.  
-Aqui você vai encontrar alguns dos meus projetos e estudos.
+Interessado em tecnologia e aprendizado contínuo.  
+Aqui contém alguns dos meus projetos e estudos.
 
 [![Linkedin Badge](https://img.shields.io/badge/-GuilhermeSantos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilhermee-santos/)](https://www.linkedin.com/in/guilhermee-santos/)
 [![Gmail Badge](https://img.shields.io/badge/-@guilhermesantos-c14438?style=flat-square&logo=&logoColor=white&link=mailto:guilhermesantosmj@gmail.com)](mailto:guilhermesantosmj@gmail.com)<br/>
